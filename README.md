@@ -1,5 +1,14 @@
-### Hi there 👋
+### 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NHackerearth)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aadarsh-9978091a8/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/aadarsh_hanu?r=nametag)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=aadarsh231099.aadarsh231099)
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh231099&langs_count=5&theme=tokyonight)]()
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aadarsh231099&count_private=true&theme=tokyonight&showicons=true)]()
 <!--
 **aadarsh231099/aadarsh231099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
