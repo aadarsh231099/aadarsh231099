@@ -12,7 +12,7 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aadarsh231099&count_private=true&theme=tokyonight&showicons=true)]()
 
 
-![giphy](https://user-images.githubusercontent.com/64643993/121312519-16e3d380-c923-11eb-96f2-d69c500d5f05.gif)
+![giphy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 <!--
 **aadarsh231099/aadarsh231099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
