@@ -13,6 +13,9 @@ Simple Guy who likes to cook some codes.
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aadarsh231099&count_private=true&theme=tokyonight&showicons=true)]()
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadarsh231099&theme=tokyonight)]()
+
+
 ![giphy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 <!--
 **aadarsh231099/aadarsh231099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
