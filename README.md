@@ -1,5 +1,5 @@
 ### 2nd Year B.E. student of branch Information Technology in N.M.A.M. Institute of Technology.
-### Portfolio Website :- https://aadarsh231099.github.io/Aadarsh/
+### My Portfolio :- https://aadarsh231099.github.io/Aadarsh/
 Simple Guy who likes to cook some codes.
 
 
