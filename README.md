@@ -2,10 +2,11 @@
 ### My Portfolio :- https://aadarsh231099.github.io/Aadarsh/
 Simple Guy who likes to cook some codes.
 
-
-<!--[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NHackerearth)-->
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aadarsh-9978091a8/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/aadarsh_hanu?r=nametag)
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/aadarsh-9978091a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/aadarsh_hanu?r=nametag"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=aadarsh231099.aadarsh231099)
 
