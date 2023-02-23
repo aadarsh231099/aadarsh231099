@@ -12,13 +12,14 @@ Simple Guy who likes to cook some codes.
 
 <a href="https://github.com/aadarsh231099?tab=followers"><img src="https://img.shields.io/github/followers/aadarsh231099?label=Followers&style=social" alt="GitHub Badge"></a>
 
+<a><h2>Stats</h2></a>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh231099&langs_count=5&theme=tokyonight)]() [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aadarsh231099&count_private=true&theme=tokyonight&showicons=true)]() [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadarsh231099&theme=tokyonight)]()
 
 <a><h2>Trophies</h2></a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aadarsh231099&row=4&theme=onedark&no-frame=true"/>
     </a> 
-<a><h2>Stats</h2></a>
+
 
 
 <!--![giphy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
