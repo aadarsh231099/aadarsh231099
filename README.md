@@ -39,10 +39,8 @@ Simple Guy who likes to cook some codes.
 <p>
   <h1 align="center"><b>🏆 Github Trophies 🏆</b></h1>
 </p>
-
- <p align="center">
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=aadarsh231099&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
 <!--![giphy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 <!--
