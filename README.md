@@ -41,7 +41,7 @@ Simple Guy who likes to cook some codes.
 </p>
 <br/>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&center)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&center)](https://github.com/ryo-ma/github-profile-trophy)" /></a>
 
 <!--![giphy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 <!--
