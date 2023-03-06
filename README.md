@@ -4,21 +4,21 @@
 ### My Portfolio :- https://aadarsh231099.github.io/Aadarsh/
 Simple Guy who likes to cook some codes.
 
-## Connect with me:
-	
+<p>
+  <h1 align="center"><b>💀 Connect With Me 💀</b></h1>
+</p>
+
+<br/>
+
+<p align="center">
 <a href = "https://www.linkedin.com/in/aadarsh-9978091a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/aadarsh_hanu?r=nametag"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://wa.me/918083162225"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
 <a href = "https://twitter.com/aadarshhanu"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://discordapp.com/users/254305922124349440"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 <a href = "https://www.snapchat.com/add/aadarshhanu?share_id=f1g1viXmYe8&locale=en-US"><img src="https://img.icons8.com/fluent/48/000000/snapchat.png"/></a>
-<a href = "https://wa.me/918083162225"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
 <a href = "https://github.com/aadarsh231099"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href = "https://www.codechef.com/users/lucifer_hanu"><img src="https://img.icons8.com/fluent/48/000000/codechef.png"/></a>
-
-
-
-
-	
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=aadarsh231099.aadarsh231099)
