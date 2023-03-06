@@ -13,7 +13,7 @@
 - I’m looking to collaborate with other Developers.
 - Ask me about anything, I am happy to help.
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/>
 <p>
   <h1 align="center"><b>💀 Connect With Me 💀</b></h1>
 </p>
