@@ -41,7 +41,7 @@ Simple Guy who likes to cook some codes.
 </p>
 <br/>
 
-  &nbsp;&nbsp; ![trophy](https://github-profile-trophy.vercel.app/?username=aadarsh231099&theme=onedark&row=1)
+  &nbsp;&nbsp;&nbsp;&nbsp; ![trophy](https://github-profile-trophy.vercel.app/?username=aadarsh231099&theme=onedark&row=1)
   
 
 <!--![giphy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
