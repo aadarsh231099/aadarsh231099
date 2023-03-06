@@ -9,7 +9,7 @@ Simple Guy who likes to cook some codes.
 <a href = "https://www.linkedin.com/in/aadarsh-9978091a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/aadarsh_hanu?r=nametag"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://twitter.com/aadarshhanu"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "discordapp.com/users/254305922124349440"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
+<a href = "https://discordapp.com/users/254305922124349440"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 
 
 	
