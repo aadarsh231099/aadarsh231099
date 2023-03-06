@@ -12,10 +12,29 @@ Simple Guy who likes to cook some codes.
 
 <a href="https://github.com/aadarsh231099?tab=followers"><img src="https://img.shields.io/github/followers/aadarsh231099?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<a><h2>Stats</h2></a>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh231099&langs_count=5&theme=tokyonight)]() 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=aadarsh231099&count_private=true&theme=tokyonight&showicons=true)]()
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadarsh231099&theme=tokyonight)]()
+<p>
+  <h1 align="center"><b>⚡ Github Stats ⚡</b></h1>
+</p>
+
+<br/>
+
+<p align="center">
+    <a href="https://github.com/dhanishssuvarna/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhanish S Suvarna's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanishssuvarna&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/dhanishssuvarna/github-readme-stats"><img alt="Dhanish S Suvarna's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dhanishssuvarna&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/dhanishssuvarna/github-readme-stats"><img alt="Dhanish S Suvarna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanishssuvarna&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aadarsh231099&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
