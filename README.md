@@ -39,8 +39,9 @@ Simple Guy who likes to cook some codes.
 <p>
   <h1 align="center"><b>🏆 Github Trophies 🏆</b></h1>
 </p>
+<br/>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark&row=1&center)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--![giphy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 <!--
