@@ -17,17 +17,19 @@ Simple Guy who likes to cook some codes.
 <br/>
 
 <div align="center">
-<a href = "https://www.linkedin.com/in/aadarsh-9978091a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/aadarsh_hanu?r=nametag"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://wa.me/918083162225"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
-<a href = "https://twitter.com/aadarshhanu"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://discordapp.com/users/254305922124349440"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
-<a href = "https://www.snapchat.com/add/aadarshhanu?share_id=f1g1viXmYe8&locale=en-US"><img src="https://img.icons8.com/fluent/48/000000/snapchat.png"/></a>
-<a href = "https://github.com/aadarsh231099"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-<a href = "https://www.codechef.com/users/lucifer_hanu"><img src="https://img.icons8.com/fluent/48/000000/codechef.png"/></a>
+<a href = "https://www.linkedin.com/in/aadarsh-9978091a8/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/aadarsh_hanu?r=nametag" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://wa.me/918083162225" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
+<a href = "https://twitter.com/aadarshhanu" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://discordapp.com/users/254305922124349440" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
+<a href = "https://www.snapchat.com/add/aadarshhanu?share_id=f1g1viXmYe8&locale=en-US" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/snapchat.png"/></a>
+<a href = "https://github.com/aadarsh231099" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+<a href = "https://www.codechef.com/users/lucifer_hanu" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/codechef.png"/></a>
 	
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square" alt="GitHub Profile Views" title="GitHub Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square" target="_blank" alt="GitHub Profile Views" title="GitHub Profile Views" />
+<a href="https://www.buymeacoffee.com/aadarshhanu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+	<a href="https://github.com/aadarsh231099?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/aadarsh231099?label=Followers&style=social" alt="GitHub Followers" title="GitHub Followers"></a>
 </p>
 
 
@@ -38,7 +40,7 @@ Simple Guy who likes to cook some codes.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=aadarsh231099.aadarsh231099)
 
-<a href="https://github.com/aadarsh231099?tab=followers"><img src="https://img.shields.io/github/followers/aadarsh231099?label=Followers&style=social" alt="GitHub Badge"></a>
+
 
 <p>
   <h1 align="center"><b>🚀 Languages & Tools 🚀</b></h1>
