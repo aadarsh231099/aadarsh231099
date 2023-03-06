@@ -31,14 +31,14 @@
 <br/>
 
 <div align="center">
-<a href = "https://www.linkedin.com/in/aadarsh-9978091a8/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/aadarsh_hanu?r=nametag" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://wa.me/918083162225" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
-<a href = "https://twitter.com/aadarshhanu" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://discordapp.com/users/254305922124349440" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
-<a href = "https://www.snapchat.com/add/aadarshhanu?share_id=f1g1viXmYe8&locale=en-US" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/snapchat.png"/></a>
-<a href = "https://github.com/aadarsh231099" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
-<a href = "https://www.codechef.com/users/lucifer_hanu" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/codechef.png"/></a>
+<a href = "https://www.linkedin.com/in/aadarsh-9978091a8/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" target="_blank"/></a>
+<a href = "https://www.instagram.com/aadarsh_hanu?r=nametag" ><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" target="_blank"/></a>
+<a href = "https://wa.me/918083162225"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"  target="_blank"/></a>
+<a href = "https://twitter.com/aadarshhanu" ><img src="https://img.icons8.com/fluent/48/000000/twitter.png" target="_blank"/></a>
+<a href = "https://discordapp.com/users/254305922124349440"><img src="https://img.icons8.com/fluent/48/000000/discord.png"  target="_blank"/></a>
+<a href = "https://www.snapchat.com/add/aadarshhanu?share_id=f1g1viXmYe8&locale=en-US" ><img src="https://img.icons8.com/fluent/48/000000/snapchat.png" target="_blank"/></a>
+<a href = "https://github.com/aadarsh231099" ><img src="https://img.icons8.com/fluent/48/000000/github.png" target="_blank"/></a>
+<a href = "https://www.codechef.com/users/lucifer_hanu" ><img src="https://img.icons8.com/fluent/48/000000/codechef.png" target="_blank"/></a>
 
 <br/><br/>
 <p align="center">
