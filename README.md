@@ -24,9 +24,6 @@ Simple Guy who likes to cook some codes.
     </a>
 </p>
 
-<p>
-  <h1 align="center"><b>📊 My Github Stats</b></h1>
-</p>
 
   <br/>
     <a href="https://github.com/aadarsh231099/github-readme-stats"><img alt="Aadarsh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aadarsh231099&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
