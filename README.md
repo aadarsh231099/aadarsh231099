@@ -28,7 +28,7 @@ Simple Guy who likes to cook some codes.
 
 <br/><br/>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=aadarsh231099&style=flat-square" target="_blank" alt="GitHub Profile Views" title="GitHub Profile Views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=aadarsh231099.aadarsh231099" target="_blank" alt="GitHub Profile Views" title="GitHub Profile Views" />
 <br/><br/>
 <a href="https://www.buymeacoffee.com/aadarshhanu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br/><br/>
