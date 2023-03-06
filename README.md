@@ -25,7 +25,8 @@ Simple Guy who likes to cook some codes.
 <a href = "https://www.snapchat.com/add/aadarshhanu?share_id=f1g1viXmYe8&locale=en-US" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/snapchat.png"/></a>
 <a href = "https://github.com/aadarsh231099" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href = "https://www.codechef.com/users/lucifer_hanu" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/codechef.png"/></a>
-	
+
+<br/><br/><br/>	
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square" target="_blank" alt="GitHub Profile Views" title="GitHub Profile Views" />
 	<br />
