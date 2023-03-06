@@ -9,7 +9,7 @@ Simple Guy who likes to cook some codes.
 </div>
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <p>
   <h1 align="center"><b>💀 Connect With Me 💀</b></h1>
 </p>
@@ -34,9 +34,7 @@ Simple Guy who likes to cook some codes.
 <br/>
 <a href="https://github.com/aadarsh231099?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/aadarsh231099?label=Followers&style=social" alt="GitHub Followers" title="GitHub Followers"></a>
 </p>
-
-<br/><br/>	
-	
+<br/>	
 <p>
   <h1 align="center"><b>🚀 Languages & Tools 🚀</b></h1>
 </p>
