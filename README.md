@@ -14,6 +14,12 @@ Simple Guy who likes to cook some codes.
 
 <a href="https://github.com/aadarsh231099?tab=followers"><img src="https://img.shields.io/github/followers/aadarsh231099?label=Followers&style=social" alt="GitHub Badge"></a>
 
+<p>
+  <h1 align="center"><b>🚀 Languages & Tools 🚀</b></h1>
+</p>
+
+<br/>
+
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
