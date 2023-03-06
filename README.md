@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/64643993/223055197-7e7a5da5-229b-4cf9-8a6f-813677ea708e.png)" alt="GitHub Profile Trophy" />
+</p>
+
 ### 4th Year B.E. student of branch Information Technology in N.M.A.M. Institute of Technology.
 ### My Portfolio :- https://aadarsh231099.github.io/Aadarsh/
 Simple Guy who likes to cook some codes.
