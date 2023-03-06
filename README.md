@@ -8,11 +8,13 @@ Simple Guy who likes to cook some codes.
 <img align="right" height="220px" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" />
 </div>
 
+
+<br/><br/><br/><br/><br/><br/>
 <p>
   <h1 align="center"><b>💀 Connect With Me 💀</b></h1>
 </p>
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
 <div align="center">
 <a href = "https://www.linkedin.com/in/aadarsh-9978091a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
