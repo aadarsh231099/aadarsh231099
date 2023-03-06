@@ -3,6 +3,7 @@
 ### 4th Year B.E. student of branch Information Technology in N.M.A.M. Institute of Technology.
 ### My Portfolio :- https://aadarsh231099.github.io/Aadarsh/
 Simple Guy who likes to cook some codes.
+<img align="right" height="220px" alt="GIF" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/screen%20open.gif" />
 
 <p>
   <h1 align="center"><b>💀 Connect With Me 💀</b></h1>
