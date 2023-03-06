@@ -2,7 +2,7 @@
 <br/>
 <br/>
 
-<img align="right" height="220px" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" />
+<img align="right" height="240px" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" />
  
 <p>
   <h1 align="center"><b>🙋‍♂️ Who Am I 🙋‍♂️</b></h1>
@@ -18,7 +18,7 @@
 
 - Ask me about anything, I am happy to help.
 
-<br/><br/><br/><br/>
+<br/><br/><br/>
 <p>
   <h1 align="center"><b>💀 Connect With Me 💀</b></h1>
 </p>
