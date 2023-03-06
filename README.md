@@ -1,4 +1,6 @@
 ![image](https://user-images.githubusercontent.com/64643993/223055632-be526298-1464-4bf5-ab8f-0f32f15766fa.png)
+<br/>
+<br/>
 
 <img align="right" height="220px" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" />
  
