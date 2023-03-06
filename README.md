@@ -42,7 +42,7 @@ Simple Guy who likes to cook some codes.
 <br/>
   
  <p align="center">  
-    <a href="https://github-profile-trophy.vercel.app/?username=aadarsh231099&theme=onedark&row=1" /></a>
+    <a href= "[![trophy](https://github-profile-trophy.vercel.app/?username=aadarsh231099&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)" /></a>
  </p>
 
 <!--![giphy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
