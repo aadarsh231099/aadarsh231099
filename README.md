@@ -1,15 +1,13 @@
 ![image](https://user-images.githubusercontent.com/64643993/223055632-be526298-1464-4bf5-ab8f-0f32f15766fa.png)
 
-4th Year B.E. student of branch Information Technology in N.M.A.M. Institute of Technology.
-
-My Portfolio :- https://aadarsh231099.github.io/Aadarsh/
-
-Simple Guy who likes to cook some codes.
-
-<div>
-<img align="right" height="200px" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" />
-</div>
-
+<img align="right" height="220px" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" />
+ 
+## 🙋‍♂️ About Me
+- I'm a Student at NMAMIT
+- I’m currently working on many things.
+- I’m currently Mastering Modern Full Stack Web Development.
+- I’m looking to collaborate with other Developers.
+- Ask me about anything, I am happy to help.
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <p>
