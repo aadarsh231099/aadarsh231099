@@ -7,7 +7,7 @@ Simple Guy who likes to cook some codes.
 ## Connect with me:
 	
 <a href = "https://www.linkedin.com/in/aadarsh-9978091a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/aadarsh_hanu?r=nametag"><img src="https://img.icons8.com/fluent/48/000000/instagram.png"/></a>
+<a href = "https://www.instagram.com/aadarsh_hanu?r=nametag"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 	
 </p>
