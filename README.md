@@ -8,15 +8,19 @@
   <h1 align="center"><b>🙋‍♂️ About Me 🙋‍♂️</b></h1>
 </p>
 
-- I'm a Student at NMAMIT
+- I'm a Software Engineer Intern @ Numocity.
+
+- I'm a final year ISE undergrad @ NMAMIT.
  
-- I’m currently working on many things.
+- I’m a gregarious teamworker.
 
-- I’m currently Mastering Modern Full Stack Web Development.
+- I’m currently working on several projects.
 
-- I’m looking to collaborate with other Developers.
+- I’m looking to collaborate with other developers.
 
-- Ask me about anything, I am happy to help.
+- Ask me about anything, would love to help.
+
+- My Portfolio :- https://aadarsh231099.github.io/Aadarsh/
 
 <br/><br/><br/>
 <p>
