@@ -1,7 +1,9 @@
 ![image](https://user-images.githubusercontent.com/64643993/223055632-be526298-1464-4bf5-ab8f-0f32f15766fa.png)
 
-### 4th Year B.E. student of branch Information Technology in N.M.A.M. Institute of Technology.
-### My Portfolio :- https://aadarsh231099.github.io/Aadarsh/
+4th Year B.E. student of branch Information Technology in N.M.A.M. Institute of Technology.
+
+My Portfolio :- https://aadarsh231099.github.io/Aadarsh/
+
 Simple Guy who likes to cook some codes.
 
 <div>
@@ -28,7 +30,7 @@ Simple Guy who likes to cook some codes.
 
 <br/><br/>
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=aadarsh231099.aadarsh231099" target="_blank" alt="GitHub Profile Views" title="GitHub Profile Views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=aadarsh231099.aadarsh231099" target="_blank" alt="GitHub Profile Visitors" title="GitHub Profile Visitors" />
 <br/><br/>
 <a href="https://www.buymeacoffee.com/aadarshhanu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br/><br/>
