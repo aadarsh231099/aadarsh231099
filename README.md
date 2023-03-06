@@ -5,15 +5,10 @@
 Simple Guy who likes to cook some codes.
 
 ## Connect with me:
-
-<div>
-                    <a href="https://www.facebook.com/aadarsh.hanu" class="facebook" target="_blank"><script src="https://code.iconify.design/2/2.0.3/iconify.min.js"></script><span class="iconify" data-icon="brandico:facebook-rect"></span></a>
-
-
-<p align="left">
 	
 <a href = "https://www.linkedin.com/in/aadarsh-9978091a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/aadarsh_hanu?r=nametag"><img src="https://icon-sets.iconify.design/skill-icons/instagram/"/></a>
+<a href = "https://www.instagram.com/aadarsh_hanu?r=nametag"><img src="https://img.icons8.com/fluent/48/000000/instagram.png"/></a>
+
 	
 </p>
 
