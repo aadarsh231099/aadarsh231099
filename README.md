@@ -7,10 +7,15 @@
 <p>
   <h1 align="center"><b>🙋‍♂️ Who Am I 🙋‍♂️</b></h1>
 </p>
+
 - I'm a Student at NMAMIT
+ 
 - I’m currently working on many things.
+
 - I’m currently Mastering Modern Full Stack Web Development.
+
 - I’m looking to collaborate with other Developers.
+
 - Ask me about anything, I am happy to help.
 
 <br/><br/><br/><br/>
