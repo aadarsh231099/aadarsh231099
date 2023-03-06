@@ -26,12 +26,12 @@ Simple Guy who likes to cook some codes.
 <a href = "https://github.com/aadarsh231099" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href = "https://www.codechef.com/users/lucifer_hanu" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/codechef.png"/></a>
 
-<br/>
+<br/><br/>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square" target="_blank" alt="GitHub Profile Views" title="GitHub Profile Views" />
-<br/>
+<br/><br/>
 <a href="https://www.buymeacoffee.com/aadarshhanu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<br/>
+<br/><br/>
 <a href="https://github.com/aadarsh231099?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/aadarsh231099?label=Followers&style=social" alt="GitHub Followers" title="GitHub Followers"></a>
 </p>
 <br/>	
