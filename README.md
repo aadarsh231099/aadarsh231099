@@ -5,7 +5,7 @@
 <img align="right" height="300px" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" />
  
 <p>
-  <h1 align="center"><b>🙋‍♂️ Who Am I 🙋‍♂️</b></h1>
+  <h1 align="center"><b>🙋‍♂️ About Me 🙋‍♂️</b></h1>
 </p>
 
 - I'm a Student at NMAMIT
@@ -20,7 +20,7 @@
 
 <br/><br/><br/>
 <p>
-  <h1 align="center"><b>💀 Connect With Me 💀</b></h1>
+  <h1 align="center"><b>💀 Let's Connect 💀</b></h1>
 </p>
 
 <br/>
