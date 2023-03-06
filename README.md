@@ -12,7 +12,7 @@ Simple Guy who likes to cook some codes.
   <h1 align="center"><b>💀 Connect With Me 💀</b></h1>
 </p>
 
-<br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 <div align="center">
 <a href = "https://www.linkedin.com/in/aadarsh-9978091a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
