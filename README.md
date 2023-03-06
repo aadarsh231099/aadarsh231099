@@ -26,7 +26,7 @@ Simple Guy who likes to cook some codes.
 <a href = "https://github.com/aadarsh231099" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href = "https://www.codechef.com/users/lucifer_hanu" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/codechef.png"/></a>
 
-<br/><br/>
+<br/>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square" target="_blank" alt="GitHub Profile Views" title="GitHub Profile Views" />
 <br/><br/>
@@ -46,6 +46,7 @@ Simple Guy who likes to cook some codes.
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
+	<code><img height="50" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" title="JavaScript" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha" /></code>
