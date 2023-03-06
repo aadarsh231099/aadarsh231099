@@ -5,7 +5,24 @@
 Simple Guy who likes to cook some codes.
 
 ## Connect with me:
+
+<div>
+                    <a href="https://www.facebook.com/aadarsh.hanu" class="facebook" target="_blank"><script src="https://code.iconify.design/2/2.0.3/iconify.min.js"></script><span class="iconify" data-icon="brandico:facebook-rect"></span></a>
+                    <a href="https://www.linkedin.com/in/aadarsh-9978091a8/" class="linkedin" target="_blank" ><span class="iconify" data-icon="akar-icons:linkedin-fill"></span></a>
+                    <a href="https://www.instagram.com/aadarsh_hanu/" class="instagram" target="_blank"><span class="iconify" data-icon="akar-icons:instagram-fill"></span></a>
+                    <a href="https://www.snapchat.com/add/aadarshhanu?share_id=f1g1viXmYe8&locale=en-US" class="snapchat" target="_blank"><span class="iconify" data-icon="akar-icons:snapchat-fill"></span></a>
+                    <a href="https://github.com/aadarsh231099" class="github" target="_blank"><span class="iconify" data-icon="akar-icons:github-fill"></span></a>
+                    <a href="https://twitter.com/aadarshhanu" class="twitter" target="_blank"><span class="iconify" data-icon="akar-icons:twitter-fill"></span></a>
+                    <a href="https://www.codechef.com/users/lucifer_hanu" class="codechef" target="_blank"><span class="iconify" data-icon="simple-icons:codechef" ></span></a>
+                    <a href="https://www.hackerearth.com/@aadarshhanu23" class="hackerearth" target="_blank"><span class="iconify" data-icon="simple-icons:hackerearth" ></span></a>
+                    <a href="https://codeforces.com/profile/Lucifer_Hanu" class="codeforces" target="_blank"><span class="iconify" data-icon="simple-icons:codeforces"></span></a>
+                    <a href="https://www.hackerrank.com/Aadarsh23?hr_r=1" class="hackerank" target="_blank"><span class="iconify" data-icon="simple-icons:hackerrank"></span></a>
+                    <a href="https://auth.geeksforgeeks.org/user/aadarshhanu23" class="gfg" target="_blank"><span class="iconify" data-icon="simple-icons:geeksforgeeks"></span></a>
+                    <a href="https://leetcode.com/aadarshhanu23/" class="leetcode" target="_blank"><span class="iconify" data-icon="simple-icons:leetcode"></span></a>
+                </div>
+
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/aadarsh-9978091a8/)
+
 <p align="left">
 	
 <a href = "https://www.linkedin.com/in/aadarsh-9978091a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
