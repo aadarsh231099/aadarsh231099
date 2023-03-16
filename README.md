@@ -11,7 +11,7 @@
 
 - I'm a Software Engineer Intern @ Numocity.
 
-- I'm a final year ISE undergrad @ NMAMIT.
+- I'm a final year ISE undergraduate @ NMAMIT.
  
 - I’m a gregarious teamworker.
 
