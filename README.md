@@ -105,6 +105,7 @@
   <a href="https://github.com/aadarsh231099/github-readme-stats"><img alt="Aadarsh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh231099&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br/>
   <a href="https://github.com/aadarsh231099/github-readme-activity-graph"><img alt="Aadarsh's github activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=aadarsh231099&theme=react-dark" /><a>
 
 </p>
