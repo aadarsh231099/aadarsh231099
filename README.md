@@ -119,6 +119,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=aadarsh231099&theme=onedark&row=1" alt="GitHub Profile Trophy" />
 </p>
 
+[![Aadarsh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aadarsh231099&bg_color=0d1117&color=c9c9c9&line=4c779e&point=a8e5ff&area=true&hide_border=true)](https://github.com/aadarsh231099/github-readme-activity-graph)
+
   
 
 <!--![giphy](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
