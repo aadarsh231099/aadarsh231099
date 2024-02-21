@@ -9,9 +9,9 @@
   <h1 align="center"><b>🙋‍♂️ About Me 🙋‍♂️</b></h1>
 </p>
 
-- I'm a Software Engineer Intern @ Numocity.
+- I'm a Software Engineer @ Numocity.
 
-- I'm a final year ISE undergraduate @ NMAMIT.
+- I'm a B.E. undergraduate(ISE) from NMAMIT.
  
 - I’m a gregarious teamworker.
 
