@@ -106,7 +106,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <br/><br/><br/><br/>
-  <a href="https://github.com/aadarsh231099/github-readme-activity-graph"><img alt="Aadarsh's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aadarsh231099" /><a>
+  <a href="https://github.com/aadarsh231099/github-readme-activity-graph"><img alt="Aadarsh's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aadarsh231099&theme=react-dark" /><a>
 
 </p>
 
