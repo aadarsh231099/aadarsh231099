@@ -137,7 +137,7 @@
 <br/>
 
 <br/>
-<img align="right" height="350px" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+<img align="right" height="350px" width="350px" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
  
 <p>
   <h1 align="center"><b>💡 Fun Facts 💡</b></h1>
