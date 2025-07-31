@@ -1,9 +1,10 @@
 ![image](https://user-images.githubusercontent.com/64643993/223055632-be526298-1464-4bf5-ab8f-0f32f15766fa.png)
 <br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Backend+Engineer+with+DevOps+Flair.;Clean+APIs+are+my+love+language.;Let's+build+something+awesome+%F0%9F%9A%80"/>
+</p>
 <br/>
-<br/>
-
-<img align="right" height="350px" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" />
+<img align="right" height="410px" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" />
  
 <p>
   <h1 align="center"><b>🙋‍♂️ About Me 🙋‍♂️</b></h1>
@@ -22,8 +23,8 @@
 - Ask me about anything, would love to help.
 
 - My Portfolio :- https://aadarsh231099.github.io/Portfolio_Aadarsh/
-
-<br/><br/><br/>
+> _"I build with purpose, not just code."_ 🚀
+<br/>
 <p>
   <h1 align="center"><b>💀 Let's Connect 💀</b></h1>
 </p>
@@ -133,6 +134,19 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aadarsh231099&theme=onedark&row=1" alt="GitHub Profile Trophy" />
 </p>
+<br/>
+
+<br/>
+<img align="right" height="380px" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+ 
+<p>
+  <h1 align="center"><b>💡 Fun Facts 💡</b></h1>
+</p>
+
+- I speak code more fluently than Kannada sometimes 😅
+- I enjoy designing reliable systems under pressure ⚙️ 
+- Based in Bangalore, but I code worldwide 🌏 
+- Side goal: Contribute to OSS and mentor juniors 🎯 
 
   
 
