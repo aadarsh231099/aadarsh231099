@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Backend+Engineer+with+DevOps+Flair.;Clean+APIs+are+my+love+language.;Let's+build+something+awesome+%F0%9F%9A%80"/>
 </p>
 <br/>
-<img align="right" height="410px" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" />
+<img align="right" height="350px" alt="GIF" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lamp%20shift.gif" />
  
 <p>
   <h1 align="center"><b>🙋‍♂️ About Me 🙋‍♂️</b></h1>
@@ -137,7 +137,7 @@
 <br/>
 
 <br/>
-<img align="right" height="380px" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+<img align="right" height="350px" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
  
 <p>
   <h1 align="center"><b>💡 Fun Facts 💡</b></h1>
