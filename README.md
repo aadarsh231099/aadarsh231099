@@ -10,7 +10,7 @@
   <h1 align="center"><b>🙋‍♂️ About Me 🙋‍♂️</b></h1>
 </p>
 
-- I'm a Software Engineer @ Numocity.
+- I'm SDE-2 @ Green Fortune.
 
 - I'm a B.E. undergraduate(ISE) from NMAMIT.
  
